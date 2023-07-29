@@ -1,5 +1,3 @@
-
-
 ​# Gym Planner is live [HERE](https://cornuel.github.io/gym-planner/).
 Please wait a few seconds in order to wake the backend server as I am hosting it using a free plan for now.
 
