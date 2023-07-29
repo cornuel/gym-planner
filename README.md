@@ -1,6 +1,6 @@
 
 
-​#Gym Planner is live [HERE](https://cornuel.github.io/gym-planner/).
+​# Gym Planner is live [HERE](https://cornuel.github.io/gym-planner/).
 Please wait a few seconds in order to wake the backend server as I am hosting it using a free plan for now.
 
 [Gym Planner](https://cornuel.github.io/gym-planner/) is a workout tracker that aims to help you do your physical activities in a daily basis.
@@ -41,7 +41,7 @@ Please wait a few seconds in order to wake the backend server as I am hosting it
 - **Homemade Animated Place Holder**: to improve user experience when waiting for data to be fetched.
 - **Font Awesome**
 
-​### Firebase Database
+​### MongoDB Database
 
 ​## What I learned
 - [x] Flask development with graphene's schema and models, pagination etc..
